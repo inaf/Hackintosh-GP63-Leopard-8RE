@@ -50,3 +50,14 @@ Function Key ✅
 For more about BIOS Follow This Guide For Detailed Info
 
 https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#intel-bios-settings
+
+
+## Thanks 
+
+
+
+
+- [@HolyHobo-chan](https://github.com/HolyHobo-chan/MSI-Leopard-GP63-Hackintosh) for USBmap
+- [@devendramilmile121](https://github.com/devendramilmile121/msigl638rc-hackintosh-efi) for EFI config
+- [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+
